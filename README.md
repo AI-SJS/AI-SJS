@@ -27,7 +27,7 @@
   - 
 - 💡 현재 프로젝트:
   - MIMIC-CXR 기반 의료 리포트 생성 모델 - R2Gen vs A3Net (2025. 03 ~)
-  - 멀티모달과 단일 CNN 모델의 얼굴 감정 인식 성능 비교 연구 (2025. 03 ~)
+  - 멀티모달과 단일 CNN 모델의 얼굴 감정 인식 성능 비교 연구 (2025. 03 ~ 2025. 06)
   - 의료 영상과 진단 보고서를 활용한 자동 의료 영상 분석 및 리포트 생성 모델 개발 (MIND_LAB, 성균관대 컨소지움, 2025. 04 ~)
   - 2025 Lab-Cops MEDICAL REPORT GENERATION (MIND_LAB, SW중심대학사업단 Lab-corps, 2025.04 ~)
   - 2025 [RISE] Lab-Cops MEDICAL REPORT GENERATION ([메디컬RISE사업단] 2025학년도 기업수요기반 캡스톤디자인 연구팀, 2025.06 ~)
