@@ -9,12 +9,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;AI+%26+Machine+Learning+Enthusiast;Open+to+Collaboration+%26+Learning!;Explore+My+Projects!+🚀" />
-</div>
-
----
 ## 🧑‍🎓 About Me
 
 - 🎓 학부생 / 건양대학교 인공지능학과 (3학년)
