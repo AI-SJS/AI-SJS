@@ -12,7 +12,7 @@
 ## 🧑‍🎓 About Me
 
 - 🎓 학부생 / 건양대학교 인공지능학과 (3학년)
-- 🔬 현재 관심 분야: Deep Learning, open-vocabulary, Vision-Language Model, Medical AI
+- 🔬 현재 관심 분야: Deep Learning, Open-Vocabulary, Vision-Language Model, Medical AI
 - 🏆 수상:쿠팡 물류 대회(분야1, 이동) 대구기계부품연구원장상 (2025. 05. 30)
 - 📝 논문 경험
   - 상관관계 기반 파생변수 생성과 AutoML을 활용한 감귤 착과량 예측(2025.01.21, 1저자, KCSE2025, 한국 소프트웨어공학 학술대회)
@@ -20,7 +20,7 @@
   - 
   - 
 - 💡 현재 프로젝트:
-  - MIMIC-CXR 기반 의료 리포트 생성 모델 - R2Gen vs A3Net (2025. 03 ~ 2025. 06)
+  - MIMIC-CXR 기반 의료 리포트 생성 모델 - R2Gen vs A3Net (2025. 03 ~ 2025. 06) 
   - 멀티모달과 단일 CNN 모델의 얼굴 감정 인식 성능 비교 연구 (2025. 03 ~ 2025. 06)
   - 의료 영상과 진단 보고서를 활용한 자동 의료 영상 분석 및 리포트 생성 모델 개발 (MIND_LAB, 성균관대 컨소지움, 2025. 04 ~)
   - 2025 Lab-Cops MEDICAL REPORT GENERATION (MIND_LAB, SW중심대학사업단 Lab-corps, 2025.04 ~)
