@@ -13,7 +13,7 @@
 
 - 🎓 학부생 / 건양대학교 인공지능학과 (3학년)
 - 🔬 현재 관심 분야: Deep Learning, Open-Vocabulary, Vision-Language Model, Medical AI
--🏆 수상
+- 🏆 수상
   - 쿠팡 물류 대회(분야1, 이동) 대구기계부품연구원장상 (2025. 05. 30),
   - AWS DeepRacer 인공지능 자율주행 자동차 AI 융합경진대회 │ 팀전 1등, 개인전 2등 2025.4 │ AI.SW 융합대학 주관
 - 📝 논문 경험
