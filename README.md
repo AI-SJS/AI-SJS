@@ -12,7 +12,7 @@
 ## 🧑‍🎓 About Me
 
 - 🎓 학부생 / 건양대학교 인공지능학과 (3학년) / 인공지능학과 학회장(2025년)
-- 🔬 현재 관심 분야: Deep Learning, Open-Vocabulary, Vision-Language Model, Medical AI
+- 🔬 현재 관심 분야: Deep Learning, Open-Vocabulary, Vision-Language Model, Zero-Shot Learning, Medical AI
 - ✏️ 동아리
   - [건양대학교 인공지능학과] MAINIX 동아리(2024. 08 ~ ing)
   - [건양대학교 소프트웨어중심사업단] AWS Deepracer 동아리(2025. 10 ~ ing)
