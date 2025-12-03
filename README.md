@@ -1,4 +1,4 @@
-# 👋 Welcome to AI-SJS's GitHub!
+<img width="746" height="93" alt="image" src="https://github.com/user-attachments/assets/ef86ee28-6e3a-4226-8e75-2cb48d86e639" /># 👋 Welcome to AI-SJS's GitHub!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=AI-SJS's%20GitHub&fontSize=45&fontAlign=50&animation=fadeIn" />
@@ -26,7 +26,8 @@
   - 상관관계 기반 파생변수 생성과 AutoML을 활용한 감귤 착과량 예측(2025.01.21, 1저자, KCSE2025, 한국 소프트웨어공학 학술대회)
   - 흉부 X-ray 영상 기반 자동 진단 보고서 생성을 위한 R2Ge과 A3Net 모델의 성능 비교 분석에 관한 연구(2025. 07 .11, 1저자, KKITS, 융복합우수논문상)
   - 의료 보고서 생성 성능 향상을 위한 llama-2 기반 모델과 transfomer 모델의 비교 분석 연구(2025. 11. 15, 1저자, KAICTS2025, 한국인공지능융합기술학회)
-  - 
+  - CTG 후처리 모듈을 활용한 Zero-Shot Open-Vocabulary Segmentation 개선 연구(2026. 2. 4, 1저자, KCSE2026, 한국 소프트웨어공학 학술대회 (*예정)
+
 - 💡 프로젝트:
   - MIMIC-CXR 기반 의료 리포트 생성 모델 - R2Gen vs A3Net (2025. 03 ~ 2025. 06) 
   - 멀티모달과 단일 CNN 모델의 얼굴 감정 인식 성능 비교 연구 (2025. 03 ~ 2025. 06)
