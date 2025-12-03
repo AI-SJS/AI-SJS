@@ -1,4 +1,4 @@
-<img width="746" height="93" alt="image" src="https://github.com/user-attachments/assets/ef86ee28-6e3a-4226-8e75-2cb48d86e639" /># 👋 Welcome to AI-SJS's GitHub!
+# 👋 Welcome to AI-SJS's GitHub!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=AI-SJS's%20GitHub&fontSize=45&fontAlign=50&animation=fadeIn" />
