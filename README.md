@@ -33,7 +33,7 @@
   - 멀티모달과 단일 CNN 모델의 얼굴 감정 인식 성능 비교 연구 (2025. 03 ~ 2025. 06)
   - 의료 영상과 진단 보고서를 활용한 자동 의료 영상 분석 및 리포트 생성 모델 개발 (MIND_LAB, 성균관대 컨소지움, 2025. 04 ~)
   - 2025 Lab-Cops MEDICAL REPORT GENERATION (MIND_LAB, SW중심대학사업단 Lab-corps, 2025.04 ~)
-  - Vision Encoder 개선 기반 GEM모듈의 Open-Vocabulary Segmentaion 성능 향상 연구  (2025.09 ~, APID2)
+  - CTG 후처리 모듈을 활용한 Zero-Shot Open-Vocabulary Segmentation 개선 연구 (2025.09 ~, APID2)
     
 - 🌍 대외활동
   - [네이버클라우드] 건양대학교 네이버클라우드1기 (2024. 9 ~ 8주간 진행)
